@@ -18,7 +18,7 @@
 "unity_interval": "2",
 "startapp_interval": "1",
 "message": "To get latest update of Soccery TV app, join our Telegram channel (t.me/soccerytv)",
-"message_link":"https://t.me/boost/soccerytv",
+"message_link":"https://t.me/soccerytv",
 "share_text": "Watch Live Sports For FREE on the Soccery TV app. Download Now: https://www.soccerytv.com/",
 "banner_ad": "https://www.kriratv.com/assets/images/banner_spotifypremium.png",
 "banner_url": "https://www.spotifypremium.download/?ref=soccerytv_app",
@@ -31,7 +31,7 @@
 "dialogTitle":"Join us on Telegram",
 "dialogMessage":"To get latest update of Soccery TV app, join our Telegram channel.",
 "dialogButton":"Join Now!",
-"dialog":"https://t.me/boost/soccerytv",
+"dialog":"https://t.me/soccerytv",
 "player":1
 
 }
