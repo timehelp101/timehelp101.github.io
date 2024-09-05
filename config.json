@@ -32,6 +32,7 @@
 "dialogMessage":"To get latest update of Soccery TV app, join our Telegram channel.",
 "dialogButton":"Join Now!",
 "dialog":"https://t.me/soccerytv",
-"player":1
+"player":1,
+"player_version":27
 
 }
