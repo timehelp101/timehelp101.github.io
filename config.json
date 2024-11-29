@@ -2,8 +2,8 @@
 "more_apps": "https://www.soccerytv.com/",
 "privecy_policy": "Soccery TV app is back... Please support us by sharing the app...Thank You",
 "telegram": "https://t.me/soccerytv",
-"updateLink": "https://github.com/ayaanahad/stv/releases/download/v1.5/release.apk",
-"app_version": "5",
+"updateLink": "https://github.com/ayaanahad/stv/releases/download/v1.5/latest_release.apk",
+"app_version": "7",
 "updateSize": "4.91",
 "update_web": "https://www.soccerytv.com/",
 "live_score": "https://www.cricbuzz.com/",
@@ -33,6 +33,6 @@
 "dialogButton":"Join Now!",
 "dialog":"https://t.me/soccerytv",
 "player":1,
-"player_version":33
+"player_version":35
 
 }
